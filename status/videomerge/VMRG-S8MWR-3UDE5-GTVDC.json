@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "schema": 1,
+    "scope": "VMRG-S8MWR-3UDE5-GTVDC",
+    "status": "approved",
+    "product": "videomerge",
+    "issued_at": 1787209194,
+    "exp": 1787210994,
+    "nonce": "29005a5a129b647e"
+  },
+  "signature": "N468kbJamV6D7bsocJwPIok+YZeX5zXNt9s1G7rLZMDJbrI4x8qTdPqCNshDO/vvkVNiDS2DxP0Nb3E1qT5LDg=="
+}

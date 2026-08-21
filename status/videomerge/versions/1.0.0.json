@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "schema": 1,
+    "scope": "1.0.0",
+    "status": "approved",
+    "product": "videomerge",
+    "issued_at": 1787209194,
+    "exp": 1787210994,
+    "nonce": "d9f9cfe6920c511d"
+  },
+  "signature": "JwXsS7sWnAWWS3KC7XcETgZYPzsKOmR6uGw9fVwwJQ0lr6xvVuKLj5HLwzavITDqV/yn4e65lA/7bUSG13EfCg=="
+}
