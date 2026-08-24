@@ -1,15 +1,15 @@
 {
   "payload": {
     "schema": 1,
-    "scope": "LATEST",
+    "scope": "1.2.0",
     "status": "approved",
     "product": "videomerge",
     "issued_at": 1787548091,
     "exp": 1787549891,
-    "nonce": "fb43c16bc797e047",
+    "nonce": "a524483b7b8ed868",
     "version": "1.2.0",
     "download_url": "https://raw.githubusercontent.com/yeltsinandrew/VideoMerge/main/releases/1.2.0/video_gui_protected.exe",
     "sha256": "801062c86a261837c982052d29e00ae3cd194e895507d56a222db588b327fbc6"
   },
-  "signature": "D+bsYE9rXEWND7dKGUPIijSi1ZNd+Wf9KG9Y8c8/ZYXw72uT8+w6f/gsTHRIz+xb2tbtmenrnpd99SQIXI8tBQ=="
+  "signature": "CDn2Y4XRyFDqI4DkL+F4NdZhD5sN0zkELu+Pw8E/XiAMYCvWr3CLbkdDykIrhjUU4A55JEQmTtdlUmKvUcXbCQ=="
 }
