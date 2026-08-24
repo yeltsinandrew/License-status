@@ -4,9 +4,9 @@
     "scope": "VMRG-S8MWR-3UDE5-GTVDC",
     "status": "approved",
     "product": "videomerge",
-    "issued_at": 1787590187,
-    "exp": 1787591987,
-    "nonce": "9200cf579714af82"
+    "issued_at": 1787590787,
+    "exp": 1787592587,
+    "nonce": "a94f3c449bfbb4d5"
   },
-  "signature": "dWm2y5lugkaoEgJ+31ccbnnGEth5Rxx8DdCXj4mp7w8ePN8LqVUdjL59mAdQjoxBQGUv1jkGiRgcYN0IOhzwAw=="
+  "signature": "ZVXN036NP8KpKWu9ZRuO9kcA8xRQaFmAylXJG6HBqMD7GnubWw2+GJLCtqPkKSPNBd+i/NwzNTv2IDulFkDOBw=="
 }
