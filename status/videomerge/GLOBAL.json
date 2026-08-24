@@ -4,9 +4,9 @@
     "scope": "GLOBAL",
     "status": "approved",
     "product": "videomerge",
-    "issued_at": 1787605187,
-    "exp": 1787606987,
-    "nonce": "430d47c3f5753b07"
+    "issued_at": 1787605787,
+    "exp": 1787607587,
+    "nonce": "12a03447918f6148"
   },
-  "signature": "CuTJ/YRNItQD9QxUQr6rExOw8ZmO486L71SStuW0TFGs9ZWo5fzNZkycrgREuMzaCPh/LYd8+IpU38QbVpdOCQ=="
+  "signature": "iRnDCXbDbuCqRaD8br+IgFMQ2mujHhiXCjK/k05BLpubgXXvdb2CgfUBhKPx3necVHURiF28ipsRh3Z7X1T5Dg=="
 }
