@@ -4,12 +4,12 @@
     "scope": "LATEST",
     "status": "approved",
     "product": "videomerge",
-    "issued_at": 1787837388,
-    "exp": 1787839188,
+    "issued_at": 1787837988,
+    "exp": 1787839788,
     "nonce": "99c9d64a9534ac33",
     "version": "1.2.0",
     "download_url": "https://raw.githubusercontent.com/yeltsinandrew/VideoMerge/main/releases/1.2.0/VideoMerge%20GUI.exe",
     "sha256": "1c032659ee55470dcdd55b24192a657de2fcb0b188f3802ad0c373254d699e0b"
   },
-  "signature": "bx6Ud0FaFg0iujckbEeMo/Oke/e5tuGzipCqdtM/0j9i50mPCkofpePovQxEM5WyViqAQ3tyZ+NJliFOBHBVBg=="
+  "signature": "3CFmPrsjQ95ZnHKVfZCnQgHwHVFTzLUFjlAKOEn8REsxo4nYmcrv7v/lGkEBs19DlTCZGMnkXcJJ8+oIO49KBA=="
 }
